@@ -1,3 +1,3 @@
 # Programming-Lab
 
-This is the code f the programming lab assignments 
+This is the code of the programming lab assignments 
